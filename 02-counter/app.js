@@ -44,6 +44,7 @@ btns.forEach(function (btn) {
 	});
 	//console.log(btn)
 });
+
 //MDN Web Docs' references
 //=========================
 
